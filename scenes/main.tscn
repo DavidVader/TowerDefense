@@ -711,5 +711,3 @@ limit_left = -50
 limit_top = -50
 limit_right = 1200
 limit_bottom = 700
-
-[node name="Sleman" type="Node" parent="."]
