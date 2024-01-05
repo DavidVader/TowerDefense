@@ -1,0 +1,66 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1704476058
+icon.svg::CompressedTexture2D::1532623843545263798::1704476054::1704476058::1::::<><>::
+README.md::TextFile::-1::1704473122::0::1::::<><>::
+::res://audio/::1704305437
+::res://scenes/::1704475547
+main.tscn::PackedScene::6582188332734117074::1704475547::0::1::::<><>::uid://boinwusxfoxgh::::res://textures/TileSet/GroundTileSet.png<>uid://c61tswdfsp6q8::::res://scenes/player.tscn
+player.tscn::PackedScene::7003556269323584693::1704475547::0::1::::<><>::res://scripts/player.gd<>res://textures/PlayerFrog/Idle (32x32).png<>res://textures/PlayerFrog/Run (32x32).png
+::res://scripts/::1704473122
+player.gd::GDScript::-1::1704473122::0::1::::<>CharacterBody2D<>::
+::res://textures/::1704473122
+::res://textures/Enemies/::1704307315
+Enemdyes.png::CompressedTexture2D::3766513622279234460::1704305429::1704307315::1::::<><>::
+Enemyes.png::CompressedTexture2D::3498310134874674500::1704305429::1704307315::1::::<><>::
+::res://textures/other/::1704470961
+Cross.png::CompressedTexture2D::1073669050455255689::1704470761::1704470961::1::::<><>::
+Gold.png::CompressedTexture2D::4458682639621682697::1704470761::1704470961::1::::<><>::
+Heart0.png::CompressedTexture2D::8140213477773542824::1704470761::1704470961::1::::<><>::
+Heart.png::CompressedTexture2D::2560966923530451267::1704470761::1704470961::1::::<><>::
+OtherSprites.png::CompressedTexture2D::2922348947837400450::1704470761::1704470961::1::::<><>::
+Sign.png::CompressedTexture2D::4322207801750758958::1704470761::1704470961::1::::<><>::
+SignSelected.png::CompressedTexture2D::6539266776777376128::1704470761::1704470961::1::::<><>::
+::res://textures/PlayerFrog/::1704473122
+Double Jump (32x32).png::CompressedTexture2D::2324289775161085157::1704473122::1704473122::1::::<><>::
+Fall (32x32).png::CompressedTexture2D::9067207846931489504::1704473122::1704473122::1::::<><>::
+Hit (32x32).png::CompressedTexture2D::5986087883059841068::1704473122::1704473122::1::::<><>::
+Idle (32x32).png::CompressedTexture2D::6815944628179887454::1704473122::1704473122::1::::<><>::
+Jump (32x32).png::CompressedTexture2D::2240843251599077683::1704473122::1704473122::1::::<><>::
+Run (32x32).png::CompressedTexture2D::2061608082476005322::1704473122::1704473122::1::::<><>::
+Wall Jump (32x32).png::CompressedTexture2D::2831179861123254869::1704473122::1704473122::1::::<><>::
+::res://textures/projectile/::1704470843
+ArrowProjectile1.png::CompressedTexture2D::1274357099730345952::1704470761::1704470834::1::::<><>::
+ArrowProjectile2.png::CompressedTexture2D::7963070706517599896::1704470761::1704470834::1::::<><>::
+ArrowProjectile3.png::CompressedTexture2D::6094153101421333129::1704470761::1704470834::1::::<><>::
+ArrowProjectileDiagonal1.png::CompressedTexture2D::6279065915214907038::1704470761::1704470834::1::::<><>::
+ArrowProjectileDiagonal2.png::CompressedTexture2D::5915923820774773610::1704470761::1704470834::1::::<><>::
+ArrowProjectileDiagonal3.png::CompressedTexture2D::6551228700118784436::1704470761::1704470834::1::::<><>::
+ManaProjectile1.png::CompressedTexture2D::4335433634598806746::1704470761::1704470843::1::::<><>::
+ManaProjectile2.png::CompressedTexture2D::7975498211502765228::1704470761::1704470843::1::::<><>::
+ManaProjectile3.png::CompressedTexture2D::7781676336641967317::1704470761::1704470843::1::::<><>::
+::res://textures/TileSet/::1704470864
+GroundTileSet.png::CompressedTexture2D::3386409204355660239::1704470761::1704470864::1::::<><>::
+world 01.png::CompressedTexture2D::1693086325342315022::1704305429::1704307305::1::::<><>::
+::res://textures/tower/::1704471005
+Settlement1.png::CompressedTexture2D::7112333237885502388::1704470761::1704470922::1::::<><>::
+Settlement2.png::CompressedTexture2D::1360829761660893692::1704470761::1704470922::1::::<><>::
+TowerArcher1.png::CompressedTexture2D::6176107867900836739::1704470761::1704470931::1::::<><>::
+TowerArcher2.png::CompressedTexture2D::4460063311769322556::1704470761::1704470931::1::::<><>::
+TowerArcher3.png::CompressedTexture2D::8540756657858863596::1704470761::1704470931::1::::<><>::
+TowerCastle1.png::CompressedTexture2D::959435138247003442::1704470761::1704470931::1::::<><>::
+TowerCastle2.png::CompressedTexture2D::3159760844780340249::1704470761::1704470931::1::::<><>::
+TowerCastle3.png::CompressedTexture2D::4778125866007028283::1704470761::1704470931::1::::<><>::
+TowerGround.png::CompressedTexture2D::109702793403976625::1704470761::1704470931::1::::<><>::
+TowerMagic1.png::CompressedTexture2D::4982814675516864937::1704470761::1704470931::1::::<><>::
+TowerMagic2.png::CompressedTexture2D::3784551283461129704::1704470761::1704470931::1::::<><>::
+TowerMagic3.png::CompressedTexture2D::4457936017303768748::1704470761::1704470931::1::::<><>::
+::res://textures/tower/entity/::1704471006
+AttackKnight1.png::CompressedTexture2D::2808069203129162091::1704470761::1704471006::1::::<><>::
+AttackKnight2.png::CompressedTexture2D::1979126344703751566::1704470761::1704471006::1::::<><>::
+AttackKnight3.png::CompressedTexture2D::2119797555777568477::1704470761::1704471006::1::::<><>::
+DefaultKnight1.png::CompressedTexture2D::5982043009873326147::1704470761::1704471006::1::::<><>::
+DefaultKnight2.png::CompressedTexture2D::5230215781291586185::1704470761::1704471006::1::::<><>::
+DefaultKnight3.png::CompressedTexture2D::1190541165532470977::1704470761::1704471006::1::::<><>::
+RunKnight1.png::CompressedTexture2D::2706266954319490231::1704470761::1704471006::1::::<><>::
+RunKnight2.png::CompressedTexture2D::8137751451767318469::1704470761::1704471006::1::::<><>::
+RunKnight3.png::CompressedTexture2D::8078983601782351727::1704470761::1704471006::1::::<><>::
